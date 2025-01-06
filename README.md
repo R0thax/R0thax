@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @R0thax
 - 👀 I’m interested in Proggraming generally
 - 🌱 I’m currently learning Lua and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I play drums
 
 <!---
